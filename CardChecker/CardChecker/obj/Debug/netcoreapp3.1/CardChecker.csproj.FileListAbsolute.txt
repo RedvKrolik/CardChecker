@@ -1,0 +1,14 @@
+D:\C# projects\CardChecker\CardChecker\bin\Debug\netcoreapp3.1\CardChecker.exe
+D:\C# projects\CardChecker\CardChecker\bin\Debug\netcoreapp3.1\CardChecker.deps.json
+D:\C# projects\CardChecker\CardChecker\bin\Debug\netcoreapp3.1\CardChecker.runtimeconfig.json
+D:\C# projects\CardChecker\CardChecker\bin\Debug\netcoreapp3.1\CardChecker.runtimeconfig.dev.json
+D:\C# projects\CardChecker\CardChecker\bin\Debug\netcoreapp3.1\CardChecker.dll
+D:\C# projects\CardChecker\CardChecker\bin\Debug\netcoreapp3.1\CardChecker.pdb
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.AssemblyInfoInputs.cache
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.AssemblyInfo.cs
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.csproj.CoreCompileInputs.cache
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.dll
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.pdb
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.genruntimeconfig.cache
+D:\C# projects\CardChecker\CardChecker\obj\Debug\netcoreapp3.1\CardChecker.csproj.AssemblyReference.cache
